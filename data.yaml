@@ -1,0 +1,7 @@
+train: "C:/Users/sudhe/OneDrive/Documents/wep1/test"
+val: "C:/Users/sudhe/OneDrive/Documents/wep1/train"
+test: "C:/Users/sudhe/OneDrive/Documents/wep1/valid"
+
+nc: 2
+names: ['knife', 'pistol']
+
